@@ -1,2 +1,2 @@
-# BusinessIntelligenceProjects
-This is a collection of datasets I analysed.
+# Business Data Intelligence Personal Projects
+This is a collection of personal datasets I analyzed from Kaggle.
